@@ -13,7 +13,7 @@ Like Tsunami and want to check out my latest proxy? Use [Metallic](https://githu
 
 <h3>An official Fog Network proxy site, made to access the blocked web</h3>
 
-<p>Surf without web filters or restrictions. Made with style, Tsunami is a rather fancy service dedicated to protecting your freedom from censorship.
+<p>Surf the whole web without web filters or restrictions. Made with style, Tsunami is a rather fancy service dedicated to protecting your freedom and online privacy from internet censorship.
 Read the documentation below to find out more</p>
 
 <p>Want to improve Tsunami? <a href="https://github.com/FogNetwork/Tsunami/compare">Create a pull request</a></p>
